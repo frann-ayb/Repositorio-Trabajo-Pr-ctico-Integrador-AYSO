@@ -1,24 +1,31 @@
-# Repositorio-Trabajo-Pr-ctico-Integrador-AYSO
+# Trabajo Práctico Integrador – AYSO
 
-# Integrantes - Comisión 15:
-- Herrera Gonzalez Franco Esteban – fh745543@gmail.com  
-- Gonzalez Rivero Anthony José – agonzr7@gmail.com  
+## Integrantes – Comisión 15
+- **Herrera Gonzalez Franco Esteban** – fh745543@gmail.com  
+- **Gonzalez Rivero Anthony José** – agonzr7@gmail.com 
 
-# Tema Elegido:
-- Seguridad en el sistema operativo, específicamente en un entorno Ubuntu Server 24.04.2 LTS.
+## Presentación del Tema
+En este proyecto abordamos la **seguridad en sistemas operativos Linux**, centrándonos en la distribución **Ubuntu Server 24.04.2 LTS**.  
+Linux es ampliamente utilizado en servidores y entornos críticos por su estabilidad y flexibilidad, pero requiere una configuración adecuada para garantizar su seguridad.  
+El trabajo analiza vulnerabilidades comunes y propone medidas concretas para mitigarlas, como endurecimiento del sistema (hardening), firewalls, actualizaciones automáticas, autenticación robusta y herramientas de auditoría.
 
-# Especificaciones de el hardware empleado:
-- 24gb ram
-- Procesador 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz   2.69 GHz
-- 512gb de almacenamiento
+## Objetivos del Proyecto
+- Aplicar buenas prácticas de seguridad en un entorno Linux real.
+- Implementar herramientas que fortalezcan la protección frente a malware, accesos no autorizados y ataques de red.
+- Documentar paso a paso el proceso de configuración segura del sistema operativo.
+- Generar conciencia sobre la importancia de mantener entornos Linux actualizados, monitoreados y configurados bajo el principio de mínimo privilegio.
 
-# Especificaciones de la maquina virtual configurada:
-- 2gb ram
-- 2 procesadores
-- 10gb de almacenamiento
+## Especificaciones del Entorno
+### Hardware del equipo anfitrión:
+- 24 GB de RAM  
+- Procesador: Intel Core i5-11400H (11ª Gen) @ 2.70 GHz  
+- 512 GB de almacenamiento SSD  
 
-# Objetivo:
-- Mostrar el proceso para una lograr una correcta configuración del sistema operativo, permitiendo trabajar en un entorno seguro a partir de la mitigación de vulnerabilidades.
+### Máquina virtual configurada:
+- 2 GB de RAM  
+- 2 CPUs asignadas  
+- 10 GB de almacenamiento virtual  
+- Sistema operativo: Ubuntu Server 24.04.2 LTS
 
-# Link video:
-(falta el link)
+## Link al video de presentación
+https://youtu.be/h4yUdJgK0iA
